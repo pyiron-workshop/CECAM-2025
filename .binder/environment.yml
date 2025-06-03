@@ -1,0 +1,7 @@
+name: pyiron_example_env
+channels:
+- conda-forge
+dependencies:
+- pyiron_workflow =0.12.1
+- matplotlib =3.10.3
+- pint =0.24.4
