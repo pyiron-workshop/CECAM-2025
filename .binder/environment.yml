@@ -5,3 +5,4 @@ dependencies:
 - pyiron_workflow =0.12.1
 - matplotlib =3.10.3
 - pint =0.24.4
+- semantikon =0.0.16
