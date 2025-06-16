@@ -1,0 +1,7 @@
+format: jb-book
+root: README
+chapters:
+- file: notebooks/1_introduction_to_pyiron_workflow.ipynb
+- file: notebooks/2_murnaghan.ipynb
+- file: notebooks/3_elasticity.ipynb
+- file: notebooks/4_full_implementation.ipynb
